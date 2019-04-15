@@ -1,5 +1,5 @@
 # Episode 3
-Mar 30 - Apr 7, 2019
+Mar 30 - Apr 7, 2019  
 Build, Issue Suggestions, Pull Request
 
 ## Links
