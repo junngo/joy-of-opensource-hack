@@ -1,4 +1,4 @@
-# Episode 6
+# Episode 7
 May 5 - May 12, 2019  
 Revising patch
 
